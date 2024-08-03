@@ -29,6 +29,19 @@
     </a>
 </div>
 
+
+
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>LeetCode</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://leetcard.jacoblin.cool/User8100hn?theme=dark&font=Space%20Mono&ext=heatmap" />
+  <br/><br/><br/>
+</div>
+
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -38,18 +51,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
-[LeetCode Stats](https://leetcard.jacoblin.cool/User8100hn?theme=dark&font=Space%20Mono&ext=heatmap)
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RMKEC111722203119/RMKEC111722203119/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
