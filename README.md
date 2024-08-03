@@ -38,6 +38,8 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
+[LeetCode Stats](https://leetcard.jacoblin.cool/User8100hn?theme=dark&font=Space%20Mono&ext=heatmap)
+
 <br/>
 <hr/>
 
